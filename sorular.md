@@ -16,6 +16,8 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 
 3. Neden bir branch oluşturuyoruz?
 
+Çalışan kodun ilk halini her ihtimale karşı yedekte tutmak için.
+
 4. Pull Request'in amacı nedir?
 
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
